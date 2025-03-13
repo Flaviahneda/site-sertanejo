@@ -112,7 +112,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('casca.jpg');
+    background-image: url('');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -131,7 +131,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #4e1901;
+    background-color: #f3f1f0;
     border: none;
     font-weight: bold;
 }
