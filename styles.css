@@ -102,13 +102,13 @@ h2 {
 }
 
 #galeria {
-    background-color: #442c0c;
+    background-color: #f0eae3;
 
 }
 
 .fundo-galeria {
     background: url('agroboy.jpg') bottom right no-repeat;
-    background-size: 240px 240px;
+    background-size: 180px 180px;
 }
 
 #contato {
